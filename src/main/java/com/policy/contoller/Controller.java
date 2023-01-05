@@ -28,8 +28,6 @@ public class Controller {
 	
 	org.slf4j.Logger log=LoggerFactory.getLogger(Controller.class);
 	
-	
-	
 	@Autowired
 	private Impl impl;
 	
